@@ -1895,7 +1895,7 @@ font-family: 'Josefin Sans', sans-serif;
     display: flex;
 	justify-content: center;
     /* flex-direction: column; */
-    background: url(/pictures/big_pictures/blog_delic_bcg1.jpg);
+    background: url(/TheTastEat_landing/pictures/big_pictures/blog_delic_bcg1.jpg);
     /* max-width: 640px; */
     height: 384px;
 }
@@ -1967,7 +1967,7 @@ font-family: 'Josefin Sans', sans-serif;
     display: flex;
 	justify-content: center;
     /* flex-direction: column; */
-    background: url(/pictures/big_pictures/blog_delic_bcg2.jpg);
+    background: url(/TheTastEat_landing/pictures/big_pictures/blog_delic_bcg2.jpg);
 }
 
 .blog_bottomblock_rightbutton{
